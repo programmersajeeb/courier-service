@@ -9,7 +9,7 @@ const AddService = () => {
     const onSubmit = data => {
         console.log(data);
         axios
-            .post('http://localhost:8080/services', data)
+            .post('https://obscure-coast-41851.herokuapp.com/services', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('Added successfully');
