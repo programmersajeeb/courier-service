@@ -10,7 +10,7 @@ const Booking = () => {
     useEffect(() => {
         fetch(`https://obscure-coast-41851.herokuapp.com/services/${ServiceId}`)
             .then(res => res.json())
-            .then(data => setServices(data.services))
+            .then(data => setServices(data))
     }, []);
 
 
