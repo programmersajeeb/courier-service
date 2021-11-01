@@ -3,13 +3,13 @@ Here also use private router, I also use react router for more effective and goo
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
-my Live site is : https://update-care.web.app/
+my Live site is : https://courier-services-f4505.web.app/
 
-. This is a health care related site
-. Here are special doctor for your help 24/7
-. It is a reputed hospital care ceenter
-. Here are always use update tecnology for treatment 
-. Docotor are consult there problem world wide, for give best service for patient
+. From this website, anyone can easily know about all the services of this courier service.
+. Any service can be easily added and deleted on this website.
+. From this website, you can get ideas about all aspects of this courier service.
+. It is very easy to know the products that can be delivered from this website.
+. A clear idea about courier will come through this website.
 
 ## Available Scripts
 

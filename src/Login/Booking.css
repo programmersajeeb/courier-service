@@ -1,3 +1,30 @@
-.booking{
+.booking-area{
     min-height:86vh;
+}
+.booking-main-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.booking-content{
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    min-height: 490px;
+    /* overflow: hidden; */
+    border-radius: 5px;
+}
+.booking-img{
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: 200px;
+}
+.booking-img img{
+    width: 100%;
+    height: 100%;
+}
+.booking-card-content p{
+    text-align: left !important;
 }
